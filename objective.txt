@@ -1,0 +1,7 @@
+main objectives (biz/val)
+- make money out of reels and posts on insta or other social handles
+- capture user/viewers and offer paid promotion
+- and ofcourse, make something beautiful
+
+tech objectives
+- take any video, and output face-sequences that can be integrated with video editing softwares.
